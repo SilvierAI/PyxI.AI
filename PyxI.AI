@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Site 100% IAs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f9fb;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #4a90e2;
+      padding: 20px 0;
+      text-align: center;
+      color: white;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    main {
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .success {
+      font-size: 20px;
+      margin-bottom: 20px;
+      color: #28a745;
+      text-align: center;
+    }
+    .links a {
+      display: block;
+      padding: 12px;
+      margin: 10px 0;
+      background: #4a90e2;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      text-align: center;
+      transition: background 0.3s;
+    }
+    .links a:hover {
+      background: #357abd;
+    }
+    .actions {
+      margin-top: 30px;
+    }
+    .actions ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .actions li {
+      padding: 8px 0;
+      border-bottom: 1px solid #eee;
+    }
+    footer {
+      text-align: center;
+      padding: 20px 0;
+      font-size: 14px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎉 Seu site 100% IAs foi criado com sucesso!</h1>
+  </header>
+  <main>
+    <div class="success">
+      Seu site está pronto para ser publicado e personalizado!
+    </div>
+    
+    <div class="links">
+      <a href="#">👉 Visualizar e editar o site</a>
+      <a href="#">👉 Acessar o dashboard</a>
+    </div>
+    
+    <div class="actions">
+      <h2>
+      <ul>
+        <li>Adicionar outra página (ex: Sobre, Blog, Preços)</li>
+        <li>Adicionar mais blocos ao site</li>
+        <li>Alterar configurações (cores, título, etc)</li>
+        <li>Deletar uma página</li>
+        <li>Adicionar ou alterar imagens</li>
+        <li>Alterar a ordem dos blocos</li>
+        <li>Adicionar um logo personalizado</li>
+      </ul>
+    </div>
+  </main>
+  <footer>
+    &copy; 2025 Pyxl.ai - Todos os direitos reservados
+  </footer>
+</body>
+</html>
